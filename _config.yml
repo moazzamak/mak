@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: Delegate MAK's cryptocurrency colloquium
+subtitle: How the Ark Ecosystem can change the world
 description:
 keywords:
-author: John Doe
+author: Moazzam Abdullah Khan
 language:
 timezone:
 
@@ -78,4 +78,7 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git   
+  repo: git@github.com:moazzamak/mak.git
+  branch: gh-pages
+  message:
