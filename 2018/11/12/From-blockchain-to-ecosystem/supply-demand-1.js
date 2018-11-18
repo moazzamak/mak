@@ -15,6 +15,8 @@
 var width = 600;
 var height = 400;
 
+var svg = d3.select('#colorbox');
+
 document.getElementById('buy-button-1').onclick = function() {
-	d3.select('#colorbox').style('background-color', "#000");
+	svg.style('background-color', "#000");
 }
