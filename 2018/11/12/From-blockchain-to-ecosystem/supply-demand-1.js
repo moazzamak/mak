@@ -23,6 +23,7 @@ var svg = d3.select('div#colorbox')
 	.attr("viewBox", "0 0 600 400")
 	.classed("svg-content-responsive", true);
 
+
 var	margin = {right: 50, left: 50},
 	width = (svg.node().getBoundingClientRect().width)/2 - margin.left/2,
 	height = svg.node().getBoundingClientRect().height;
