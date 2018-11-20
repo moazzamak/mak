@@ -15,7 +15,7 @@ var price = 10000;
 var itemcount = 0;
 
 var data = [];
-var scale = window.devicePixelRatio;
+var scale = Math.min(window.devicePixelRatio, 2.5);
 
 var container = d3.select('div#colorbox');
 var svg = container
