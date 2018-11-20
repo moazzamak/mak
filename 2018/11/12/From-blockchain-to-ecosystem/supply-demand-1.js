@@ -22,7 +22,7 @@ var svg = container
 	.classed("svg-container", true) //container class to make it responsive
 	.append("svg")
 	.attr("preserveAspectRatio", "xMinYMin meet")
-	.attr("viewBox", "0 0 " + 600*scale + " " + 400*scale)
+	.attr("viewBox", "0 0 " + 600/scale + " " + 400/scale)
 	.classed("svg-content-responsive", true);
 
 
@@ -93,7 +93,7 @@ function hue(h) {
 }
 
 // set the ranges
-var xaxis = d3.scaleLinear().range([50, width + 200]);
+var xaxis = d3.scaleLinear().range([50, width*2 -50 ]);
 var yaxis = d3.scaleLinear().range([height-100, 50]);
 
 // define the line
