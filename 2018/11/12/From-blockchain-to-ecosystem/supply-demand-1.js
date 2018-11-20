@@ -15,12 +15,14 @@ var price = 10000;
 var itemcount = 0;
 
 var data = [];
+var scale = window.devicePixelRatio;
 
-var svg = d3.select('div#colorbox')
+var container = d3.select('div#colorbox');
+var svg = container
 	.classed("svg-container", true) //container class to make it responsive
 	.append("svg")
 	.attr("preserveAspectRatio", "xMinYMin meet")
-	.attr("viewBox", "0 0 600 400")
+	.attr("viewBox", "0 0 " + 600*scale + " " + 400*scale)
 	.classed("svg-content-responsive", true);
 
 
