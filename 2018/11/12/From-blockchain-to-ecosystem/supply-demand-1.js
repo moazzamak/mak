@@ -1,23 +1,10 @@
-// Create characters
-	// Basic person
-		// Seller
-		// Buyer
-
-// Create stage
-	// Rope
-	// Flag
-
-// Create interactive buttons
-	// Buy
-	// Sell
-
 var price = 10000;
 var itemcount = 0;
 
 var data = [];
 var scale = Math.min(window.devicePixelRatio, 2.5);
 
-var container = d3.select('div#colorbox');
+var container = d3.select('div#colorbox1');
 var svg = container
 	.classed("svg-container", true) //container class to make it responsive
 	.append("svg")
