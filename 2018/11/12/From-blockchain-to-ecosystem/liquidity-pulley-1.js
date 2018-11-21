@@ -64,8 +64,11 @@ var reset2 = function (xval){
 
 reset2(50);
 var numTokens = 100000;
+var tokensRemaining = numTokens;
+
 function calcPriceLog(p, odelta){
-	price = Math.max(price + 1000000000 * Math.log(numTokens / (numTokens - odelta)), 0.01);
+	tokensRemaining = tokensRemaining - odelta;
+	price = Math.max(price + 1000*odelta/Math.abs(tokensRemaining - numTokens + 1), 0.01);
 	return price;
 }
 
