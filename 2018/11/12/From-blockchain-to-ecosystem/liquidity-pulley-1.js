@@ -1,4 +1,4 @@
-var price = 10000;
+var price2 = 10000;
 var itemcount = 0;
 
 var data2 = [];
@@ -66,10 +66,10 @@ reset2(50);
 var numTokens = 100000;
 var tokensRemaining = numTokens;
 
-function calcPriceLog(p, odelta){
+function calcpriceLog(p, odelta){
 	tokensRemaining = tokensRemaining - odelta;
-	price = Math.max(price + 1000*odelta/Math.abs(tokensRemaining - numTokens + 1), 0.01);
-	return price;
+	price2 = Math.max(price2 + 1000*odelta/Math.abs(tokensRemaining - numTokens + 1), 0.01);
+	return price2;
 }
 
 function hue2(h) {
@@ -77,7 +77,7 @@ function hue2(h) {
 	svg2.style("background-color", d3.hsl(h, 0.8, 0.9));
 
 	odelta = h-50;
-	data2.push({"idx": itemcount, "val": calcPriceLog(price, odelta)});
+	data2.push({"idx": itemcount, "val": calcpriceLog(price2, odelta)});
 	itemcount = itemcount + 1;
 	plotData2();
 }
