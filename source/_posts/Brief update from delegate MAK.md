@@ -1,5 +1,5 @@
 ---
-title: Delegate update
+title: Status update
 date: 2019-10-09 12:00:18
 tags:
 ---
