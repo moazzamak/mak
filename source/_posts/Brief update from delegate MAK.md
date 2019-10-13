@@ -1,5 +1,5 @@
 ---
-title: Proposal update August
+title: Delegate update
 date: 2019-10-09 12:00:18
 tags:
 ---
