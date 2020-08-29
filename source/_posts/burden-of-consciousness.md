@@ -1,0 +1,7 @@
+---
+title: The Burden Of Consciousness
+date: 2016-09-29 00:00:00
+tags:
+---
+
+Look out into the starry sky and tell me what you feel? These stars you see are the same ones that stood in the sky when the first creature crawled out of the sea and made it’s home on land. These are the giant forges powered by gravity that illuminate the universe. Their lifespans are counted in Billions of years. Do you feel small when you see them as dots in the sky? The sheer number of them? The distances involved? Do you feel insignificant? Worthless? And yet even stars shall face death one day. And when they do perhaps their biggest achievement would be that they helped a conscious being light-years away find their way in the dark. Such is the uniqueness of consciousness. Our lives may be insignificantly short when compared to a star but our contributions have a very observable and lasting effect. Each of us has the potential to change course of the universe’s future. We have the potential to master our planet and reach out into the void. We have the potential to establish self sustaining colonies on other planets in our solar system. We have the potential to journey to the stars and spread the seed of consciousness. We had it even when our ancestors were learning to use the stars to navigate in the dark. It’s a shame none of us realize that this potential is also a responsibility and all of us are failing in living up to it. After all, each one is burdened no more than their potential (and no less).
