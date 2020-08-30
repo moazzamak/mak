@@ -1,5 +1,6 @@
 ---
 title: Distilled chaos, in writing
+date: 2016-08-29 00:00:00
 ---
 
 Hi,
