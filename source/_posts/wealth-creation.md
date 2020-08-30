@@ -126,7 +126,7 @@ It helps to have a dream of what you want the world to be like due to your effor
 - Day traders can tolerate very little risk, one large swing will kill your portfolio if you don't have stop loss
 - Crypto and stock long term investors can tolerate large risk, eventually the investment will be +ve due to market cycles
 - Don't borrow money to invest, it is an almost guaranteed way to lose money and end up in debt
-- All time market lows are the best time to buy, All time market highs are the best time to sell (you will have to fight your emotions to execute this)
+- All-time market lows are the best time to buy, All-time market highs are the best time to sell (you will have to fight your emotions to execute this)
 - Don't get married to your investment, if you think the fundamentals have changed and are not worth it anymore then cut your losses and switch to another investment
 
 
