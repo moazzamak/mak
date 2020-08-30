@@ -92,7 +92,7 @@ An example of the ability of these assets to protect value is that you could get
 A common misconception is to mistake savings as a form of investment. Savings is when fiat currency just sits in a bank account or under a mattress while inflation steals value from it. Obviously such a strategy doesn't create new value for the world and only hurts the buying power of the saver while enriching despotic governments. To put things in perspective a 7% annual inflation rate means that in 10 years the purchasing power of some saved amount is halved.
 
 ## Cash flow is king
-I tend to prefer cash flow investing to create passive income streams. The income I receive from the asset is continuously reinvested thus creating a compounding effect which creates exponential growth. A cashflow asset with a 10% yield will be worth 2.5x of the original invested amount after 10 years.
+I tend to prefer cash flow investing to create passive income streams. The income I receive from the asset is continuously reinvested thus creating a compounding effect which creates exponential growth. A cashflow asset with a 10% yield will be worth 2.5x of the original invested amount after 10 years of compounding.
 A cash flow investor's goal is to become financially independent. This means to reach a point where all your expenses are covered by the portfolio income alone. When financial independence is reached a person can choose to quit their day job however it is recommended to continue working and being a productive citizen of the world, all the while investing the salary into more cash flow assets.
 Some common cash flow assets are:
 - Dividend paying shares in a business
