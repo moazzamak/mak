@@ -9,6 +9,8 @@ tags:
 - dpos
 ---
 
+EDIT 05/08/2020: Vitalik Buterin [came up with the idea for AMMs](https://www.reddit.com/r/ethereum/comments/55m04x/lets_run_onchain_decentralized_exchanges_the_way/) in late 2016. I didn't know about his idea at the time I was writing AIP22 and this article. I would like to acknowledge his genius and recommend readers to read his blog post as well. -- END EDIT --
+
 The internet revolution started with a small group of scientists who figured out how to connect computers separated by vast distances. The simple act of connecting computers into a single network has made such a great impact on society that no facet of our life today can work without it. In this post I will try to convince you that the same revolution is about to happen in the world of cryptocurrencies and that Ark is poised to lead it. I will also try to outline one way in which we could achieve this and connect multiple blockchains into a single internet of blockchains, and how it's consequences will cause disruption on the same scale as the internet did when it finally matured.
 
 ## Ideological Foundations
